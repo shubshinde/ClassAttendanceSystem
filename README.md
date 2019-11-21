@@ -1,1 +1,1 @@
-# Attendance-Monitering-App---Android-PHP
+# Attendance Monitering App - (PHP + MySql)
