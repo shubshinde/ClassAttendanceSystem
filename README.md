@@ -1,1 +1,1 @@
-# Attendance Monitering Website - (PHP + MySql)
+# Class Attendance Website - (PHP + MySql)
